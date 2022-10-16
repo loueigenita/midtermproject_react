@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page.",
+      "author": "Itsing",
+      "id": 1
+    },
+    {
+      "title": "My First Blog",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page.",
+      "author": "Louei",
+      "id": 2
+    },
+    {
+      "title": "My First Blog",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page.",
+      "author": "Khent",
+      "id": 3
+    },
+    {
+        "title": "My First Blog",
+        "body": "It is a long established fact that a reader will be distracted by the readable content of a page.",
+        "author": "Maki",
+        "id": 4
+      }
+  ]
+}
